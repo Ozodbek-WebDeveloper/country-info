@@ -1,4 +1,4 @@
-# 7-dars
+# country info
 
 ## Project setup
 ```
